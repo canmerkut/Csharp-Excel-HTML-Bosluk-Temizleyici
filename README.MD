@@ -2,6 +2,7 @@
 
 Bu C# uygulaması, Excel dosyalarındaki HTML içeriğinde bulunan fazla boşlukları temizlemek için geliştirilmiş bir araçtır.
 
+Dikkat: Github koşulları gereği "packages" içeriğini ekleyemedim. projeyi import ettikten sonra nuket konsolundan "Install-Package EPPlus" yüklemesini yapın. geriye birkaç kütüphane kalır onları kütüphane isimleri üstüne gelip düzeltmeleri yapabilirsiniz.
 ## Özellikler
 
 - Excel dosyasının 9. sütunundaki metinlerde bulunan fazla boşlukları temizler
